@@ -10,5 +10,5 @@ The visualization lets the user choose up to two border entry points and one met
 
 Happy visualizing!
 
-
+![alt text](https://github.com/ilsep93/Border-Crossings-Vis/blob/master/BorderCrossingViz.png)
 
