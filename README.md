@@ -2,7 +2,7 @@
 
 This R Shiny app visualizes over 340,000 border crossings into the United States from 1996 to 2019!
 
-Information about the data is here:
+Data available here:
 
 https://www.bts.gov/content/border-crossingentry-data
 
